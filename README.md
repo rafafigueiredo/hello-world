@@ -1,2 +1,3 @@
 # hello-world
-My first Git repository
+This is my first Git repository.
+No pain no gain.
